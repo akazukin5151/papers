@@ -13,7 +13,11 @@ Filename | Module | Title
 [6SSG3040_CW1_1931393.pdf](6SSG3040_CW1_1931393.pdf) | Directed Readings | Railway network design and transfers in Greater Tokyo and London
 [6SSG3077_CW2_1931393.pdf](6SSG3077_CW2_1931393.pdf) | Applications of Spatial Data Science | Comparative public bus transportation network and accessibility analysis: a case study for Greater London and Hong Kong
 
-Source code are available for most of them, contact me to request. It will be licensed under GPLv3+. The source code for the IGS (6SSG0610_CW1_1931393.pdf) is at [site-suitability](https://github.com/akazukin5151/site-suitability/)
+Source code are available for most of them, contact me to request. It will be licensed under GPLv3+.
+
+The source code for the IGS (6SSG0610_CW1_1931393.pdf) is at [site-suitability](https://github.com/akazukin5151/site-suitability/).
+
+The source code for the Applications of Spatial Data Science paper (6SSG3077_CW2_1931393.pdf) is at [network-and-accessiblity-analysis](https://github.com/akazukin5151/network-and-accessiblity-analysis)
 
 # License
 
